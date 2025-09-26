@@ -12,3 +12,6 @@ CCID: ganut
 
 name: Nikolai Philipenko
 CCID: nphilipe
+
+name: Greg Madro
+CCID: gmadro
