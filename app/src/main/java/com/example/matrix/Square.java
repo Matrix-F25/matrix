@@ -1,5 +1,5 @@
 package com.example.matrix;
 
-public class Square {
+public class Square extends Shape{
 
 }
