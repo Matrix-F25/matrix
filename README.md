@@ -1,5 +1,2 @@
-Connor Udal
-
-
-CCID
-udal
+'Name: Albert Ganut'
+'CCID: ganut'
